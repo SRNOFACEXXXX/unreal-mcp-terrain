@@ -1,0 +1,179 @@
+{
+  "dim": 636,
+  "world_m": 1270.0,
+  "cell_m": 1.9968553459119496,
+  "scale_z": 100.0,
+  "baseline_m": 100.0,
+  "elev_min_m": 14.321772406729007,
+  "elev_max_m": 235.2123872616316,
+  "landscape_origin_cm": [
+    -31700.0,
+    -31700.0
+  ],
+  "sites": [
+    {
+      "name": "Vila de Montanha",
+      "biome": "mountain",
+      "px": [
+        540,
+        138
+      ],
+      "world_x_cm": 27600.0,
+      "world_y_cm": 108000.0,
+      "elev_m": 170.89184001718277,
+      "radius_m": 38.0
+    },
+    {
+      "name": "Posto de Mineracao",
+      "biome": "mountain",
+      "px": [
+        534,
+        199
+      ],
+      "world_x_cm": 39800.0,
+      "world_y_cm": 106800.0,
+      "elev_m": 167.98150686067194,
+      "radius_m": 38.0
+    },
+    {
+      "name": "Vilarejo da Floresta",
+      "biome": "forest",
+      "px": [
+        96,
+        78
+      ],
+      "world_x_cm": 15600.0,
+      "world_y_cm": 19200.0,
+      "elev_m": 103.67707373104759,
+      "radius_m": 55.0
+    },
+    {
+      "name": "Serraria",
+      "biome": "forest",
+      "px": [
+        215,
+        102
+      ],
+      "world_x_cm": 20400.0,
+      "world_y_cm": 43000.0,
+      "elev_m": 105.86210557034568,
+      "radius_m": 55.0
+    },
+    {
+      "name": "Abrigo de Cacadores",
+      "biome": "forest",
+      "px": [
+        311,
+        164
+      ],
+      "world_x_cm": 32800.0,
+      "world_y_cm": 62200.0,
+      "elev_m": 103.81036770258797,
+      "radius_m": 55.0
+    },
+    {
+      "name": "Cidade da Planicie",
+      "biome": "plains",
+      "px": [
+        88,
+        521
+      ],
+      "world_x_cm": 104200.0,
+      "world_y_cm": 17600.0,
+      "elev_m": 42.5685844678678,
+      "radius_m": 80.0
+    },
+    {
+      "name": "Fazenda Coletiva",
+      "biome": "plains",
+      "px": [
+        114,
+        353
+      ],
+      "world_x_cm": 70600.0,
+      "world_y_cm": 22800.0,
+      "elev_m": 39.81215527645531,
+      "radius_m": 80.0
+    },
+    {
+      "name": "Silo Ferroviario",
+      "biome": "plains",
+      "px": [
+        122,
+        225
+      ],
+      "world_x_cm": 45000.0,
+      "world_y_cm": 24400.0,
+      "elev_m": 49.40539795369188,
+      "radius_m": 80.0
+    },
+    {
+      "name": "Vila do Pantano",
+      "biome": "wetland",
+      "px": [
+        575,
+        532
+      ],
+      "world_x_cm": 106400.0,
+      "world_y_cm": 115000.0,
+      "elev_m": 14.626423908022502,
+      "radius_m": 45.0
+    },
+    {
+      "name": "Cais de Pesca",
+      "biome": "wetland",
+      "px": [
+        523,
+        582
+      ],
+      "world_x_cm": 116400.0,
+      "world_y_cm": 104600.0,
+      "elev_m": 15.78086126370573,
+      "radius_m": 45.0
+    }
+  ],
+  "cameras": [
+    {
+      "name": "Montanha",
+      "target": {
+        "x_cm": 25400.0,
+        "y_cm": 98999.99999999999,
+        "z_cm": 16526.845863841914
+      },
+      "eye_height_m": 45.0
+    },
+    {
+      "name": "Floresta",
+      "target": {
+        "x_cm": 35400.0,
+        "y_cm": 30400.0,
+        "z_cm": 7423.7554135212595
+      },
+      "eye_height_m": 30.0
+    },
+    {
+      "name": "Planicie",
+      "target": {
+        "x_cm": 96400.0,
+        "y_cm": 27800.0,
+        "z_cm": 4414.989187608241
+      },
+      "eye_height_m": 25.0
+    },
+    {
+      "name": "Pantano",
+      "target": {
+        "x_cm": 101600.0,
+        "y_cm": 96400.0,
+        "z_cm": 3831.9776478651065
+      },
+      "eye_height_m": 20.0
+    }
+  ],
+  "layers": [
+    "Rock_01",
+    "Grass_Ivy_01",
+    "Dead_Leaves_01",
+    "Dry_Ground_01"
+  ]
+}

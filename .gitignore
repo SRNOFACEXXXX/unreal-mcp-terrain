@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------------------
+# ASSETS DE TERCEIROS - NAO VERSIONAR
+# Content/ contem o pack European Forest da Leartes Studios (licenca paga,
+# Studio License). A licenca PROIBE redistribuicao/revenda, entao o conteudo
+# nunca pode ir para um repositorio publico.
+# Quem clonar este repo precisa importar o pack por conta propria em Content/.
+# ---------------------------------------------------------------------------
+/Content/
+
+# --------------------------- gerados pela Unreal ---------------------------
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# ------------------------------- nosso lixo --------------------------------
+/archive/
+*.pyc
+__pycache__/
+py_report.txt
+probe_out.txt
+
+# estado intermediario do gerador (regeneravel, ~30MB)
+*.npz
+scripts/gen/*.npy
